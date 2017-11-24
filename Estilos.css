@@ -1,0 +1,34 @@
+@charset "utf-8";
+/* CSS Document */
+
+.Base {
+	background-color: #9FF;
+	height: 900px;
+	width: 1350px;
+}
+#Base {
+	background-color: #FFF;
+	height: 1100px;
+	width: 1350px;
+}
+#Base #Cabecera {
+	background-color: #FFF;
+	height: 150px;
+	width: 1350px;
+}
+#Base #Logo p {
+	height: 160px;
+	width: 1350px;
+	background-color: #FFF;
+}
+
+#Base #Contenido {
+	background-color: #FFF;
+	height: 620px;
+	width: 1350px;
+}
+#Base #Pie_de_pagina {
+	background-color: #FFF;
+	height: 150px;
+	width: 1350px;
+}
